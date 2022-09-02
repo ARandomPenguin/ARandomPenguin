@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ARandomPenguin
-- 👀 I’m interested in cyber security, games, and programming in general
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning C
 
 
 <!---
