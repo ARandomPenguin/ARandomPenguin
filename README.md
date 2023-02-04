@@ -7,7 +7,7 @@
 
 Visitors:
 
-<img src="https://profile-counter.glitch.me/ar-jpeg/count.svg" />
+<img src="https://profile-counter.glitch.me/ARandomPenguin/count.svg" />
 <!---
 ARandomPenguin/ARandomPenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
